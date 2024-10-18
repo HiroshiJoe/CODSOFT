@@ -35,21 +35,6 @@ This project focuses on detecting fraudulent credit card transactions from highl
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/HiroshiJoe/CODSOFT.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd CODSOFT/Sales_Prediction/
-   ```
-3. Open the Jupyter Notebook for each project and execute the code:
-   ```
-   jupyter notebook sales_prediction_code.ipynb
-   ```
-
 ## Contact
 For any queries or feedback, feel free to reach out:
 - Email: joeheroshi2807@gmail.com  
